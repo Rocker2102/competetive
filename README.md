@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-- **[Problem Solving](problem-solving/)**
+- ### [Problem Solving](problem-solving/)
   | Name | C | C++ | JS | PHP |
   | ----- | ----- | ----- | ----- | ----- |
   | Solve Me First | [:heavy_check_mark:](problem-solving/solve-me-first.c) |
@@ -16,7 +16,7 @@
   | Grading Students | | | [:heavy_check_mark:](problem-solving/grading-students.js) | |
   | [Apple & orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | | | [:heavy_check_mark:](problem-solving/apple-and-orange.js) | |
 
-- **[10 Days of JS](10-days-of-js/)**
+- ### [10 Days of JS](10-days-of-js/)
   | Day 0 | Day 1 | Day 2 | Day 3 |
   | ----- | ----- | ----- | ----- |
   | :heavy_check_mark: Hello, World<br>:heavy_check_mark: Data Types | :heavy_check_mark: Arithmetic Operators<br>:heavy_check_mark: Functions<br> :heavy_check_mark: Let & Const | :heavy_check_mark: [Conditional Statements: If-else](10-days-of-js/day2-conditional-statements-if-else.js)<br>:heavy_check_mark: [Conditional Statements: Switch](10-days-of-js/day2-conditional-statements-switch.js)<br>:heavy_check_mark: Loops | :heavy_check_mark: [Arrays](10-days-of-js/day3-arrays.js)<br>:heavy_check_mark: [Try, Catch & Finally](10-days-of-js/day3-try-catch-and-finally.js)<br> :heavy_check_mark: [Throw](10-days-of-js/day3-throw.js) |
@@ -29,4 +29,4 @@
   | ----- | ----- |
   | :x: Create a Button<br>:x: Buttons Container | :x: Binary Calculator |
 
-- **SQL**
+- ### SQL
