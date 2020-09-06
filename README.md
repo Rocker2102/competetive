@@ -14,6 +14,7 @@
   | Birthday Cake Candles | | | [:heavy_check_mark:](problem-solving/birthday-cake-candles.js) | |
   | Time Conversion | | | | [:heavy_check_mark:](problem-solving/time-conversion.php) |
   | Grading Students | | | [:heavy_check_mark:](problem-solving/grading-students.js) | |
+  | [Apple & orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | | | [:heavy_check_mark:](problem-solving/apple-and-orange.js) | |
 
 - **[10 Days of JS](10-days-of-js/)**
   | Day 0 | Day 1 | Day 2 | Day 3 |
