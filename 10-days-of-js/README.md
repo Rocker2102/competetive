@@ -6,7 +6,7 @@
 
 | Day 4 | Day 5 | Day 6 | Day 7 |
 | ----- | ----- | ----- | ----- |
-| :heavy_check_mark: [Create a Rectangle Object](day4-create-a-rectangle-object.js)<br>:heavy_check_mark: [Count Objects](day4-count-objects.js)<br> :heavy_check_mark: [Classes](day4-classes.js) | :heavy_check_mark: [Inheritance](day5-inheritance.js)<br>:heavy_check_mark: [Template Literals](day5-template-literals.js)<br> :heavy_check_mark: [Arrow Functions](day5-arrow-functions.js) | :heavy_check_mark: [Bitwise Operators](day6-bitwise-operators.js)<br>:heavy_check_mark: [JavaScript Dates](day6-javascript-dates.js) | :heavy_check_mark: [Regular Expressions I](day7-regexp-1.js)<br> :heavy_check_mark: [Regular Expressions II](day7-regexp-2.js)<br> :x: Regular Expressions III |
+| :heavy_check_mark: [Create a Rectangle Object](day4-create-a-rectangle-object.js)<br>:heavy_check_mark: [Count Objects](day4-count-objects.js)<br> :heavy_check_mark: [Classes](day4-classes.js) | :heavy_check_mark: [Inheritance](day5-inheritance.js)<br>:heavy_check_mark: [Template Literals](day5-template-literals.js)<br> :heavy_check_mark: [Arrow Functions](day5-arrow-functions.js) | :heavy_check_mark: [Bitwise Operators](day6-bitwise-operators.js)<br>:heavy_check_mark: [JavaScript Dates](day6-javascript-dates.js) | :heavy_check_mark: [Regular Expressions I](day7-regexp-1.js)<br> :heavy_check_mark: [Regular Expressions II](day7-regexp-2.js)<br> :heavy_check_mark: [Regular Expressions III](day7-regexp-3.js) |
 
 | Day 8 | Day 9 |
 | ----- | ----- |
