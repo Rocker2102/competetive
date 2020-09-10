@@ -2,3 +2,6 @@ tmp.*
 temp.*
 tmp/
 temp/
+*.exe
+*.out
+*.class
