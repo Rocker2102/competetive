@@ -16,7 +16,7 @@ Note: I/O will be automatically handled.
 
 #include <stdio.h>
 
-int max_of_four(a, b, c, d) {
+int max_of_four(int a, int b, int c, int d) {
     if (a >=b && a >= c && a>= d) {
         return a;
     } else if (b >= a && b >= c && b >= d) {
