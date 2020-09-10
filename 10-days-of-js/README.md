@@ -10,4 +10,4 @@
 
 | Day 8 | Day 9 |
 | ----- | ----- |
-| :x: Create a Button<br>:x: Buttons Container | :x: Binary Calculator |
+| :heavy_check_mark: [Create a Button](day8-create-a-button/index.html)<br>:x: Buttons Container | :x: Binary Calculator |
