@@ -28,7 +28,7 @@ int main() {
 
     for (i = 0; i < strlen(s); i++) {
         int char_digit = (int)*(s + i);
-        if (char_digit >= 48 && *(s + i) <= 57) {
+        if (char_digit >= 48 && char_digit <= 57) {
             digit_count[char_digit - 48]++;
         }
     }
