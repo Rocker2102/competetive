@@ -28,21 +28,12 @@ Return the absolute difference between the sums of the matrix's two diagonals as
 */
 
 function diagonalDifference(arr) {
-    let diag1 = 0, diag2 = 0;
-    for (let i = 0; i < arr.length; i++) {
-        for (let j = 0; j < arr[i].length; j++) {
-            if (i == j) {
-                diag1 += arr[i][j];
-            }
-            if (i + j == arr[i].length - 1) {
-                diag2 += arr[i][j];
-            }
-        }
-    }
+    let sum = 0;
+    const numRows = arr.length;
 
-    if (diag2 > diag1) {
-        return diag2 - diag1;
-    } else {
-        return diag1 - diag2;
+    for (let i = 0; i < numRows; i++) {
+        sum += (arr[i][i] - arr[i][numRows - i - 1]);
     }
+    
+    return Math.abs(sum);
 }
