@@ -6,7 +6,7 @@
 | Simple Array Sum | | | [:heavy_check_mark:](simple-array-sum.js) | |
 | Compare the Triplets | | | | |
 | A Very Big Sum | | | [:heavy_check_mark:](a-very-big-sum.js) | |
-| Diagonal Difference | | | [:heavy_check_mark:](diagonal-difference.js) | |
+| Diagonal Difference | | [:heavy_check_mark:](diagonal-difference.cpp) | [:heavy_check_mark:](diagonal-difference.js) | |
 | Plus Minus | | | [:heavy_check_mark:](plus-minus.js) | |
 | Staircase | | | | [:heavy_check_mark:](staircase.php) |
 | Mini-Max Sum | | | [:heavy_check_mark:](mini-max-sum.js) | |
