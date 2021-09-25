@@ -4,7 +4,7 @@
 | ----- | ----- | ----- | ----- | ----- |
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | [:heavy_check_mark:](solve-me-first.c) |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | | | [:heavy_check_mark:](simple-array-sum.js) | |
-| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | | | | |
+| [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | | | [:heavy_check_mark:](compare-the-triplets.js) | |
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | | | [:heavy_check_mark:](a-very-big-sum.js) | |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | | [:heavy_check_mark:](diagonal-difference.cpp) | [:heavy_check_mark:](diagonal-difference.js) | |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | | | [:heavy_check_mark:](plus-minus.js) | |
