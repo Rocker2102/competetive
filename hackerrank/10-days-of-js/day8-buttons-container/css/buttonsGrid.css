@@ -1,0 +1,15 @@
+#btns {
+    width: 75%;
+}
+
+#btns > .btn {
+    height: 48px;
+    width: 30%;
+    font-size: 24px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
