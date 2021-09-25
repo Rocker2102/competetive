@@ -11,6 +11,6 @@
 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | | [:heavy_check_mark:](staircase.cpp) | | [:heavy_check_mark:](staircase.php) |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | | | [:heavy_check_mark:](mini-max-sum.js) | |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | | | [:heavy_check_mark:](birthday-cake-candles.js) | |
-| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | | | | [:heavy_check_mark:](time-conversion.php) |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | | | [:heavy_check_mark:](time-conversion.js) | [:heavy_check_mark:](time-conversion.php) |
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | | | [:heavy_check_mark:](grading-students.js) | |
 | [Apple & orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | | | [:heavy_check_mark:](apple-and-orange.js) | |
