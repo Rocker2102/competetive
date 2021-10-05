@@ -15,20 +15,18 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             if (one > two) { break; }
 
-            if (nums[i] == 0) {
-                swap(nums, i, zero);
-                zero++; one++;
-                continue;
-            }
-
-            if (nums[i] == 1) {
-                one++;
-                continue;
-            }
-
-            if (nums[i] == 2) {
-                swap(nums, i, two);
-                two--; i--;
+            switch (nums[i]) {
+                case 0:
+                    swap(nums, i, zero);
+                    zero++; one++;
+                    break;
+                case 1:
+                    one++;
+                    break;
+                case 2:
+                    swap(nums, i, two);
+                    two--; i--;
+                    break;
             }
         }
     }
