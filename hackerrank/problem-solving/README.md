@@ -15,3 +15,4 @@
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | | | [:heavy_check_mark:](grading-students.js) | |
 | [Apple & orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | | | [:heavy_check_mark:](apple-and-orange.js) | |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | | [:heavy_check_mark:](breaking-the-records.cpp) | | |
+| [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | | [:heavy_check_mark:](number-line-jumps.cpp) | | |
