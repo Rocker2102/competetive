@@ -16,3 +16,4 @@
 | [Apple & orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | | | [:heavy_check_mark:](apple-and-orange.js) | |
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | | [:heavy_check_mark:](breaking-the-records.cpp) | | |
 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | | [:heavy_check_mark:](number-line-jumps.cpp) | | |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | | [:heavy_check_mark:](migratory-birds.cpp) | | |
