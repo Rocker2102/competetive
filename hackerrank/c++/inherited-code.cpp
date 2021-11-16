@@ -1,3 +1,5 @@
+/* https://www.hackerrank.com/challenges/inherited-code/problem */
+
 #include <iostream>
 #include <string>
 #include <sstream>
