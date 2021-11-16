@@ -18,7 +18,7 @@ vector<int> parseInts(string str) {
         }
     }
     /* for getting the last value */
-    ss >> tmp >> ch;
+    ss >> tmp;
     arr.push_back(tmp);
 
     return arr;
