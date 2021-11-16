@@ -17,3 +17,4 @@
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | | [:heavy_check_mark:](breaking-the-records.cpp) | | |
 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem) | | [:heavy_check_mark:](number-line-jumps.cpp) | | |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | | [:heavy_check_mark:](migratory-birds.cpp) | | |
+| [Sales By Match](https://www.hackerrank.com/challenges/sock-merchant/problem) | | [:heavy_check_mark:](sales-by-match.cpp) | | |
