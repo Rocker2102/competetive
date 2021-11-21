@@ -10,6 +10,11 @@ public:
             if (nums[i] != nums[i + 1]) {
                 return nums[i];
             }
+            if (nums.size() - 2 - i >= 0
+                && nums[nums.size() - 1 - i] != nums[nums.size() - 2 - i]
+            ) {
+                return nums[nums.size() - 1 - i];
+            }
         }
         return 0;
     }
