@@ -8,8 +8,8 @@ public:
         int mid;
 
         if (end == 0) {
-            if (nums[0] == target) { return 0; }
-            else { return -1; }
+            if (nums[0] == target) return 0;
+            else return -1;
         }
 
         while (beg <= end) {
