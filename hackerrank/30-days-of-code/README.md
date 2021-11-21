@@ -9,3 +9,5 @@
 [:heavy_check_mark:](day3-conditional-statements.cpp) [Day 3 - Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem)
 
 [:heavy_check_mark:](day4-class-vs-instance.cpp) [Day 4 - Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)
+
+[:heavy_check_mark:](day5-loops.cpp) [Day 5 - Loops](https://www.hackerrank.com/challenges/30-loops/problem)
