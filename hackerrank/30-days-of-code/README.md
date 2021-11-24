@@ -15,3 +15,5 @@
 [:heavy_check_mark:](day6-lets-review.js) [Day 6 - Lets Review](https://www.hackerrank.com/challenges/30-review-loop/problem)
 
 [:heavy_check_mark:](day7-arrays.cpp) [Day 7 - Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)
+
+[:heavy_check_mark:](day8-dictionaries-and-maps.cpp) [Day 8 - Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)
