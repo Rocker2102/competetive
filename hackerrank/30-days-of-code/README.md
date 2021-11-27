@@ -21,3 +21,5 @@
 [:heavy_check_mark:](day9-recursion3.cpp) [Day 9 - Recusion 3](https://www.hackerrank.com/challenges/30-recursion/problem)
 
 [:heavy_check_mark:](day10-binary-bumbers.cpp) [Day 10 - Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
+
+[:heavy_check_mark:](day11-2d-arrays.cpp) [Day 11 - 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
