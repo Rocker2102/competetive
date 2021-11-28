@@ -23,3 +23,5 @@
 [:heavy_check_mark:](day10-binary-bumbers.cpp) [Day 10 - Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)
 
 [:heavy_check_mark:](day11-2d-arrays.cpp) [Day 11 - 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)
+
+[:heavy_check_mark:](day12-inheritance.cpp) [Day 12 - Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
