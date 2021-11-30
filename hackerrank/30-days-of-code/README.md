@@ -27,3 +27,5 @@
 [:heavy_check_mark:](day12-inheritance.cpp) [Day 12 - Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)
 
 [:heavy_check_mark:](day13-abstract-classes.cpp) [Day 13 - Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
+
+[:heavy_check_mark:](day14-scope.cpp) [Day 14 - Scope](https://www.hackerrank.com/challenges/30-scope/problem)
