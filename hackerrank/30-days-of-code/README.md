@@ -29,3 +29,5 @@
 [:heavy_check_mark:](day13-abstract-classes.cpp) [Day 13 - Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)
 
 [:heavy_check_mark:](day14-scope.cpp) [Day 14 - Scope](https://www.hackerrank.com/challenges/30-scope/problem)
+
+[:heavy_check_mark:](day15-linked-list.cpp) [Day 15 - Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)
