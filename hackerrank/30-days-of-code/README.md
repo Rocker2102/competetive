@@ -31,3 +31,5 @@
 [:heavy_check_mark:](day14-scope.cpp) [Day 14 - Scope](https://www.hackerrank.com/challenges/30-scope/problem)
 
 [:heavy_check_mark:](day15-linked-list.cpp) [Day 15 - Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)
+
+[:heavy_check_mark:](day16-exceptions-stoi.cpp) [Day 15 - Exceptions: String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
