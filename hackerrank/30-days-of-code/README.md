@@ -32,4 +32,6 @@
 
 [:heavy_check_mark:](day15-linked-list.cpp) [Day 15 - Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)
 
-[:heavy_check_mark:](day16-exceptions-stoi.cpp) [Day 15 - Exceptions: String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+[:heavy_check_mark:](day16-exceptions-stoi.cpp) [Day 16 - Exceptions: String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+
+[:heavy_check_mark:](day17-more-exceptions.cpp) [Day 17 - More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
