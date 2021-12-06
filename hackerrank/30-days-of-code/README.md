@@ -35,3 +35,5 @@
 [:heavy_check_mark:](day16-exceptions-stoi.cpp) [Day 16 - Exceptions: String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
 
 [:heavy_check_mark:](day17-more-exceptions.cpp) [Day 17 - More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
+
+[:heavy_check_mark:](day18-queues-and-stacks.java) [Day 18 - Queues & Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
