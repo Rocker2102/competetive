@@ -37,3 +37,5 @@
 [:heavy_check_mark:](day17-more-exceptions.cpp) [Day 17 - More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/problem)
 
 [:heavy_check_mark:](day18-queues-and-stacks.java) [Day 18 - Queues & Stacks](https://www.hackerrank.com/challenges/30-queues-stacks/problem)
+
+[:heavy_check_mark:](day19-interfaces.java) [Day 19 - Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)
