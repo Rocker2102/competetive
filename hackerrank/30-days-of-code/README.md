@@ -41,3 +41,5 @@
 [:heavy_check_mark:](day19-interfaces.java) [Day 19 - Interfaces](https://www.hackerrank.com/challenges/30-interfaces/problem)
 
 [:heavy_check_mark:](day20-sorting.cpp) [Day 20 - Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)
+
+[:heavy_check_mark:](day21-generics.java) [Day 21 - Generics](https://www.hackerrank.com/challenges/30-generics/problem)
