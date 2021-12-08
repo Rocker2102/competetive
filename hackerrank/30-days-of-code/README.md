@@ -43,3 +43,5 @@
 [:heavy_check_mark:](day20-sorting.cpp) [Day 20 - Sorting](https://www.hackerrank.com/challenges/30-sorting/problem)
 
 [:heavy_check_mark:](day21-generics.java) [Day 21 - Generics](https://www.hackerrank.com/challenges/30-generics/problem)
+
+[:heavy_check_mark:](day22-binary-search-trees.java) [Day 22 - Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
