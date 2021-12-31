@@ -49,3 +49,5 @@
 [:heavy_check_mark:](day25-running-time-and-complexity.java) [Day 25 - Running Time & Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
 
 [:heavy_check_mark:](day26-nested-logic.java) [Day 26 - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+
+[:heavy_check_mark:](day27-testing.java) [Day 27 - Testing](https://www.hackerrank.com/challenges/30-testing/problem)
