@@ -46,6 +46,8 @@
 
 [:heavy_check_mark:](day22-binary-search-trees.java) [Day 22 - Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees/problem)
 
+[:heavy_check_mark:](day24-more-linked-lists.java) [Day 24 - More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem)
+
 [:heavy_check_mark:](day25-running-time-and-complexity.java) [Day 25 - Running Time & Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem)
 
 [:heavy_check_mark:](day26-nested-logic.java) [Day 26 - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
