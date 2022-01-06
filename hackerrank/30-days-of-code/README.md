@@ -53,3 +53,5 @@
 [:heavy_check_mark:](day26-nested-logic.java) [Day 26 - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem)
 
 [:heavy_check_mark:](day27-testing.java) [Day 27 - Testing](https://www.hackerrank.com/challenges/30-testing/problem)
+
+[:heavy_check_mark:](day28-regex-patterns-intro-to-db.java) [Day 28 - RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
